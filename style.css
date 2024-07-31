@@ -75,6 +75,8 @@ section {
   background-color: var(--cinza-neutro-200);
 }
 
+/* Descrição */
+
 .descricao-h {
   font-size: 4rem;
 
@@ -99,4 +101,13 @@ section {
 
 .container a {
   margin: 20px auto;
+}
+
+/* Planos */
+
+.plano{
+ background: #065eb1;
+  color: #000000;
+  border-radius: 4px;
+  transition: 0.3s;
 }
